@@ -7,6 +7,7 @@ This is a chat application created in Java. It consists of a server and multiple
 
 ![Chat Application](https://user-images.githubusercontent.com/78180667/125865633-0363631b-fca8-4244-94f7-a957d5e36d9d.jpg)
 
+
 ![Screenshot from 2021-06-21 13-56-10](https://user-images.githubusercontent.com/49923044/122811671-c5cacc80-d29e-11eb-86dd-069a62d16b75.png)
 
 ![Screenshot from 2021-06-21 14-36-36](https://user-images.githubusercontent.com/49923044/122811697-cd8a7100-d29e-11eb-8a7c-50481a605fe4.png)
