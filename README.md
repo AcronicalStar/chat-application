@@ -32,7 +32,6 @@ This is a chat application created in Java. It consists of a server and multiple
 5) Socket programming
 6) Java swing
 
-# Setup
 
 # Features
 * Server
